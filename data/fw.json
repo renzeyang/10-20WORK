@@ -1,0 +1,159 @@
+{
+	"pic":["img/1.jpg","img/2.jpg","img/3.jpg"],
+	"var":[
+		{
+			"icon":"iconfont icon-riqixuanze",
+			"text":"车商城",
+			"color":"#ff6666"
+		},
+		{
+			"icon":"iconfont icon-faxiandingdan",
+			"text":"分期购车",
+			"color":"#ff9d3e"
+		},
+		{
+			"icon":"iconfont icon-gongzuojilu",
+			"text":"团购分期",
+			"color":"#ff6666"
+		},
+		{
+			"icon":"iconfont icon-dianzan",
+			"text":"找二手车",
+			"color":"#4183ff"
+		}
+	],
+	"img":"img/a.png",
+	"title1":"车主服务",
+	"one":[
+		{
+			"icon":"iconfont icon-tengxunweibo1",
+			"text":"油卡充值",
+			"color":"#f85858"
+		},
+		{
+			"icon":"iconfont icon-jianpan",
+			"text":"油卡充值",
+			"color":"#d3ede3"
+		},
+		{
+			"icon":"iconfont icon-pingfen",
+			"text":"低价保险",
+			"color":"#7760ef"
+		},
+		{
+			"icon":"iconfont icon-qianbao",
+			"text":"4S店保养",
+			"color":"#ade1d0"
+		},
+		{
+			"icon":"iconfont icon-shouji",
+			"text":"车品商城",
+			"color":"#ff4e00"
+		},
+		{
+			"icon":"iconfont icon-lajitong",
+			"text":"洗车",
+			"color":"#cfe0ff"
+		},
+		{
+			"icon":"iconfont icon-feiji",
+			"text":"违章代缴",
+			"color":"#ff4f02"
+		},
+		{
+			"icon":"iconfont icon-bianji",
+			"text":"免费测评",
+			"color":"#e84c4c"
+		},
+		{
+			"icon":"iconfont icon-wenjian",
+			"text":"差周边",
+			"color":"#d0e0ff"
+		},
+		{
+			"icon":"iconfont icon-pingguo",
+			"text":"车主卡",
+			"color":"#0aa570"
+		},
+		{
+			"icon":"iconfont icon-twitter2",
+			"text":"领券保养",
+			"color":"#4183ff"
+		},
+		{
+			"icon":"iconfont icon-weixinpengyouquan",
+			"text":"全部",
+			"color":"#d9d9d9"
+		}
+	],
+	"title2":"限时抢购",
+	"two":[
+		{
+			"img":"img/x.png",
+			"text":"补胎工具简易套装",
+			"price":"￥9.9元",
+			"del":"28元"
+		},
+		{
+			"img":"img/y.png",
+			"text":"车用椅背挂钩",
+			"price":"￥9.9元",
+			"del":"28元"
+		},
+		{
+			"img":"img/x.png",
+			"text":"补胎工具简易套装",
+			"price":"￥9.9元",
+			"del":"28元"
+		}
+	],
+	"title3":"活动专区",
+	"three":[
+		{
+			"h":"测身价炫富",
+			"f":"身价大Pk",
+			"img":"img/b.png"
+		},
+		{
+			"h":"全场0利率",
+			"f":"购车无压力",
+			"img":"img/c.png"
+		},
+		{
+			"h":"好车分期",
+			"f":"定制专属方案",
+			"img":"img/d.png"
+		}
+	],
+	"title4":"猜你喜欢",
+	"four":[
+		{
+			"pic":"img/e.png",
+			"name":"上汽大众-全新旅途L",
+			"text":"上汽大众-全新旅途L享2年0利率",
+			"price":"1元",
+			"del":"1.44万"
+		},
+		{
+			"pic":"img/f.png",
+			"name":"上汽大众-全新旅途L",
+			"text":"上汽大众-全新旅途L享2年0利率",
+			"price":"1元",
+			"del":"1.44万"
+		},
+		{
+			"pic":"img/g.png",
+			"name":"上汽大众-全新旅途L",
+			"text":"上汽大众-全新旅途L享2年0利率",
+			"price":"1元",
+			"del":"1.44万"
+		},
+		{
+			"pic":"img/h.png",
+			"name":"上汽大众-全新旅途L",
+			"text":"上汽大众-全新旅途L享2年0利率",
+			"price":"1元",
+			"del":"1.44万"
+		}
+	]
+}
